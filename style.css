@@ -1,6 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: #FFD1DC;
     color: black;
+    font-family: 'Times New Roman', serif'
 }
 
 /* Style for the header banner */
