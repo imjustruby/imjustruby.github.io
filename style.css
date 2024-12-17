@@ -5,6 +5,7 @@ body {
 
 /* Style for the header banner */
 header {
+    font-family: 'Times New Roman', Times, serif;
     background-color: #E75480; /* Blue background */
     color: white; /* White text */
     padding: 15px 20px; /* Add padding around the content */
