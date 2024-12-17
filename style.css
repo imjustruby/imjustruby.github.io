@@ -1,6 +1,11 @@
+body {
+    background-color: #FFD1DC;
+    color: black;
+}
+
 /* Style for the header banner */
 header {
-    background-color: #007acc; /* Blue background */
+    background-color: #E75480; /* Blue background */
     color: white; /* White text */
     padding: 15px 20px; /* Add padding around the content */
     position: sticky; /* Make it stick at the top when scrolling */
@@ -14,7 +19,7 @@ header {
 .header-content {
     display: flex; /* Use flexbox to arrange items */
     align-items: center; /* Align vertically in the center */
-    justify-content: flex-start; /* Align items to the left */
+    justify-content: space-between; /* Align items to the left */
 }
 
 /* Style for the site name */
@@ -44,5 +49,5 @@ header {
 
 .about-image {
     width: 300px;
-    height: 400px;
+    height: 500px;
 }
