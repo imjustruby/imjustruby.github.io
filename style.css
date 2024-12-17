@@ -8,7 +8,7 @@ header {
     font-family: 'Times New Roman', Times, serif;
     background-color: #E75480; /* Blue background */
     color: white; /* White text */
-    padding: 15px 20px; /* Add padding around the content */
+    padding: 30px 40px; /* Add padding around the content */
     position: sticky; /* Make it stick at the top when scrolling */
     top: 0; /* Stick to the top */
     width: 100%; /* Full width */
@@ -50,5 +50,10 @@ header {
 
 .about-image {
     width: 300px;
-    height: 500px;
+    height: 450px;
+}
+
+#about, #projects, #contacy {
+    font-family: 'Times New Roman', serif;
+    padding: 20px;
 }
